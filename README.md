@@ -22,17 +22,17 @@
 >  - Since we are not teaching Git or GitHub in this course I have included a file in the project release which gives you links to good tutorials (including a few video tutorials) on installing and configuring Git and GitHub, on using Git and GitHub, and on using the Android Studio integration with GitHub.
 
 ## Specification:
-> - The calculator should accept two **decimal (non-negative, decimal point allowed) operand values** from the user and perform one of 6 functions 
-  > - Add, 
-  > - Subtract, 
-  > - Multiply, 
-  > - Divide, 
-  > - Percent, 
-  > - Square Root
-  > - The first four operations take both operands. Percent and square root only take a single operand. 
-  > - In addition to the EditText fields for the operand(s), **the user interface should include a result with a label (both implemented as TextView widgets) and 6 buttons, one for each calculator function.** 
-  > - My app’s user interface looks like this:
-  > ** Insert Screen Shot here **
+- The calculator should accept two **decimal (non-negative, decimal point allowed) operand values** from the user and perform one of 6 functions 
+  - Add, 
+  - Subtract, 
+  - Multiply, 
+  - Divide, 
+  - Percent, 
+  - Square Root
+> - The first four operations take both operands. Percent and square root only take a single operand. 
+> - In addition to the EditText fields for the operand(s), **the user interface should include a result with a label (both implemented as TextView widgets) and 6 buttons, one for each calculator function.** 
+> - My app’s user interface looks like this:
+> ** Insert Screen Shot here **
 
 > - As you can see, on a successful operation (e.g. valid operand(s)) the answer is displayed under the “Result:” label and the app resumes waiting for the user to enter new operands or click on a different operation using the same operands. The result should stand out. 
 
