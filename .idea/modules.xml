@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Project1.iml" filepath="$PROJECT_DIR$/.idea/Project1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Code/OhmsLawCalculator_r0_source/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/Code/OhmsLawCalculator_r0_source/androidTest/androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Code/OhmsLawCalculator_r0_source/main/main.iml" filepath="$PROJECT_DIR$/Code/OhmsLawCalculator_r0_source/main/main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Code/OhmsLawCalculator_r0_source/test/test.iml" filepath="$PROJECT_DIR$/Code/OhmsLawCalculator_r0_source/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GeoQuiz.iml" filepath="$PROJECT_DIR$/.idea/modules/GeoQuiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GeoQuiz.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GeoQuiz.app.iml" />
     </modules>
   </component>
 </project>
